@@ -20,7 +20,7 @@ Spidy uses a number of open source projects to work properly:
 - [Prisma] - making requests and creating db schema
 - [Schadcn] - some great UI components
 - [Neon] - database
-- [UoloadThing] - handling image upload
+- [UploadThing] - handling image upload
 - [Vercel] - used for deployment
 
 Join [Spidy](https://spidy-lake.vercel.app/) right now.
