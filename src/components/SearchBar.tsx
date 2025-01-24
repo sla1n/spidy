@@ -34,7 +34,7 @@ export default function SearchBar() {
         </svg>
         <Input
           type="text"
-          placeholder="user"
+          placeholder="Find a user"
           className="pl-10 pr-4"
           value={username}
           onChange={(e) => setUsername(e.target.value)}
